@@ -1,4 +1,3 @@
-# concat_csvs.py
 from pathlib import Path
 from typing import Iterable
 import pandas as pd

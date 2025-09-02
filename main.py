@@ -1,35 +1,20 @@
-# main.py
-import argparse
-import sys
+from fastapi import FastAPI, BackgroundTasks
 from pathlib import Path
 
-from concatCsvs import CHUNKSIZE, DEFAULT_INPUT, DEFAULT_OUTPUT, GLOB_PATTERN, concatCSVFolder
+from concatCsvs import DEFAULT_INPUT, DEFAULT_OUTPUT, concatCSVFolder
+
+app = FastAPI(title="CSV Merger")
 
 
-def main(argv=None) -> int:
-    parser = argparse.ArgumentParser(
-        description="Concat CSVs de una carpeta en un único CSV (sin formateo)")
-    parser.add_argument(
-        "--input", "-i", default=DEFAULT_INPUT, help="Carpeta con CSVs")
-    parser.add_argument(
-        "--output", "-o", default=DEFAULT_OUTPUT, help="Archivo CSV de salida")
-    parser.add_argument("--pattern", "-p", default=GLOB_PATTERN,
-                        help="Patrón glob (ej: '*.csv')")
-    parser.add_argument("--chunksize", "-c", type=int,
-                        default=CHUNKSIZE, help="Filas por chunk")
+@app.get("/")
+def root():
+    return {"ok": True, "info": "POST /merge para concatenar"}
 
-    # Borrar archivo de salida existente
-    parser.add_argument("--overwrite", action="store_true",
-                        help="Borrar el archivo de salida existente antes de concatenar")
 
-    args = parser.parse_args(argv)
-
-    out_path = Path(args.output)
-    if args.overwrite and out_path.exists():
+@app.post("/merge")
+def merge(background_tasks: BackgroundTasks, input_folder: str = DEFAULT_INPUT, output_file: str = DEFAULT_OUTPUT, overwrite: bool = False):
+    out_path = Path(output_file)
+    if overwrite and out_path.exists():
         out_path.unlink()
-
-    return concatCSVFolder(args.input, args.output, args.pattern, args.chunksize)
-
-
-if __name__ == "__main__":
-    sys.exit(main())
+    background_tasks.add_task(concatCSVFolder, input_folder, output_file)
+    return {"message": "merge started", "input": input_folder, "output": output_file}

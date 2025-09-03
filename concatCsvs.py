@@ -2,9 +2,10 @@ from pathlib import Path
 from typing import Iterable
 import pandas as pd
 import sys
+from datetime import datetime
 
 DEFAULT_INPUT = "csv_input"
-DEFAULT_OUTPUT = "output/merged_all.csv"
+DEFAULT_OUTPUT = "output"
 GLOB_PATTERN = "*.csv"
 CHUNKSIZE = 200_000
 
@@ -29,6 +30,21 @@ EXPECTED_COLUMNS = [
 OUT_COLUMNS = EXPECTED_COLUMNS + ["archivoOrigen"]
 
 
+def generateTimestampedOutput(base_output: str, prefix: str = "ArchivosLinkedin") -> Path:
+
+    now = datetime.now()
+    timestamp = now.strftime("%Y%m%d_%H%M%S")
+    base_path = Path(base_output)
+    if base_path.suffix.lower() == ".csv":
+        out_dir = base_path.parent
+    else:
+        out_dir = base_path
+
+    out_dir.mkdir(parents=True, exist_ok=True)
+    new_name = f"{prefix}_{timestamp}.csv"
+    return out_dir / new_name
+
+
 def processChunks(reader: Iterable[pd.DataFrame], filename: str, output_file: str, header_written_ref: dict) -> int:
     rows_written = 0
     for chunk in reader:
@@ -44,15 +60,17 @@ def processChunks(reader: Iterable[pd.DataFrame], filename: str, output_file: st
     return rows_written
 
 
-def concatCSVFolder(input_folder: str, output_file: str, glob_pattern: str = GLOB_PATTERN, chunksize: int = CHUNKSIZE) -> int:
+def concatCSVFolder(input_folder: str = DEFAULT_INPUT, output_file: str = DEFAULT_OUTPUT,
+                    glob_pattern: str = GLOB_PATTERN, chunksize: int = CHUNKSIZE) -> int:
     p = Path(input_folder)
     files = sorted(p.glob(glob_pattern))
     if not files:
         print(
             f"No se encontraron archivos en {input_folder} con patrón {glob_pattern}", file=sys.stderr)
         return 1
-
-    output_path = Path(output_file)
+    out_path = generateTimestampedOutput(
+        output_file, prefix="ArchivosLinkedin")
+    output_path = Path(out_path)
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     header_written = {"val": False}
@@ -63,15 +81,20 @@ def concatCSVFolder(input_folder: str, output_file: str, glob_pattern: str = GLO
             reader = pd.read_csv(
                 f, dtype=str, chunksize=chunksize, low_memory=False, na_filter=False)
             total_rows += processChunks(reader,
-                                        f.name, output_file, header_written)
+                                        f.name, str(output_path), header_written)
         except pd.errors.EmptyDataError:
             print(f"Archivo vacío: {f}", file=sys.stderr)
         except UnicodeDecodeError:
             reader = pd.read_csv(f, dtype=str, chunksize=chunksize,
                                  encoding="latin-1", low_memory=False, na_filter=False)
             total_rows += processChunks(reader,
-                                        f.name, output_file, header_written)
+                                        f.name, str(output_path), header_written)
 
     print(
-        f"Completado: {total_rows} filas escritas en {output_file} de {len(files)}")
+        f"Completado: {total_rows} filas escritas en {output_path} de {len(files)} archivos.")
+    print(f"Archivo generado: {output_path}")
     return 0
+
+
+if __name__ == "__main__":
+    concatCSVFolder()

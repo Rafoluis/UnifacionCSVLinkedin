@@ -1,0 +1,1221 @@
+2025-09-04 18:26:51 [INFO] Carpeta de entrada creada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin\csv_input
+2025-09-04 18:26:51 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnifacionCSVLinkedin
+2025-09-04 18:26:51 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin\csv_input
+2025-09-04 18:26:51 [INFO] Carpeta salida: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin\output
+2025-09-04 18:26:51 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnifacionCSVLinkedin\FormLeadsLinkedinBK
+2025-09-04 18:26:51 [ERROR] No se encontraron archivos en C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin\csv_input con patrón *.csv
+2025-09-04 19:04:44 [INFO] Directorio LinkedIn detectado en: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnifacionCSVLinkedin\Linkedin
+2025-09-04 19:04:44 [INFO] Carpeta de entrada creada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin\csv_input
+2025-09-04 19:04:44 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnifacionCSVLinkedin
+2025-09-04 19:04:44 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin\csv_input
+2025-09-04 19:04:44 [INFO] Carpeta salida: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin\output
+2025-09-04 19:04:44 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK
+2025-09-04 19:04:44 [ERROR] No se encontraron archivos en C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin\csv_input con patrón *.csv
+2025-09-04 19:05:07 [INFO] Directorio LinkedIn detectado en: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnifacionCSVLinkedin\Linkedin
+2025-09-04 19:05:07 [INFO] Carpeta de entrada creada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin\csv_input
+2025-09-04 19:05:07 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnifacionCSVLinkedin
+2025-09-04 19:05:07 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin\csv_input
+2025-09-04 19:05:07 [INFO] Carpeta salida: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin\output
+2025-09-04 19:05:07 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK
+2025-09-04 19:05:07 [ERROR] No se encontraron archivos en C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin\csv_input con patrón *.csv
+2025-09-04 19:16:19 [INFO] Directorio LinkedIn detectado en: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin
+2025-09-04 19:16:19 [INFO] Carpeta de entrada creada: C:\Users\Usuario\Desktop\2024-Tr\UnificacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin
+2025-09-04 19:16:19 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin
+2025-09-04 19:16:19 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnificacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin
+2025-09-04 19:16:19 [INFO] Carpeta salida: C:\Users\Usuario\Desktop\2024-Tr\UnificacionCSVLinkedin\Linkedin\FormLeadsLinkedin
+2025-09-04 19:16:19 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnificacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK
+2025-09-04 19:16:19 [ERROR] No se encontraron archivos en C:\Users\Usuario\Desktop\2024-Tr\UnificacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin con patrón *.csv
+2025-09-04 19:18:14 [INFO] Directorio LinkedIn detectado en: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin
+2025-09-04 19:18:14 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin
+2025-09-04 19:18:14 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin
+2025-09-04 19:18:14 [INFO] Carpeta salida: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin
+2025-09-04 19:18:14 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK
+2025-09-04 19:18:14 [INFO] Se creará: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin\ArchivosLinkedin_20250904_191814.xlsx
+2025-09-04 19:18:14 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 19:18:14 [INFO]   encoding detectado: utf-8
+2025-09-04 19:18:14 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 19:18:14 [INFO]   encoding detectado: utf-8
+2025-09-04 19:18:14 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 19:18:14 [INFO]   encoding detectado: utf-8
+2025-09-04 19:18:14 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 19:18:14 [INFO]   encoding detectado: utf-8
+2025-09-04 19:18:14 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 19:18:14 [INFO]   encoding detectado: utf-8
+2025-09-04 19:18:14 [INFO] Procesando CEPPROCLEAN_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 19:18:14 [INFO]   encoding detectado: utf-8
+2025-09-04 19:18:14 [INFO] Procesando CEPPROD40 - GERENCIA DE PRODUCCION 4.0_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 19:18:14 [INFO]   encoding detectado: utf-8
+2025-09-04 19:18:14 [INFO] Procesando CEPPROD40 - GERENCIA DE PRODUCCION 4.0_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 19:18:14 [INFO]   encoding detectado: utf-8
+2025-09-04 19:18:14 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 19:18:14 [INFO]   encoding detectado: utf-8
+2025-09-04 19:18:14 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 19:18:14 [INFO]   encoding detectado: utf-8
+2025-09-04 19:18:14 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 19:18:14 [INFO]   encoding detectado: utf-8
+2025-09-04 19:18:14 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 19:18:14 [INFO]   encoding detectado: utf-8
+2025-09-04 19:18:14 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 19:18:14 [INFO]   encoding detectado: utf-8
+2025-09-04 19:18:14 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (6).csv ...
+2025-09-04 19:18:14 [INFO]   encoding detectado: utf-8
+2025-09-04 19:18:15 [INFO] Completado: 287 filas escritas en C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin\ArchivosLinkedin_20250904_191814.xlsx
+2025-09-04 19:18:15 [INFO] [backup] Copiado ArchivosLinkedin_20250904_191814.xlsx -> C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK\ArchivosLinkedin_20250904_191814.xlsx
+2025-09-04 19:29:07 [INFO] Directorio LinkedIn detectado en: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin
+2025-09-04 19:29:07 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin
+2025-09-04 19:29:07 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin
+2025-09-04 19:29:07 [INFO] Carpeta salida: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin
+2025-09-04 19:29:07 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK
+2025-09-04 19:29:07 [ERROR] [rotate] Error moviendo/eliminando C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin\ArchivosLinkedin_20250904_191814.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\ArchivosLinkedin_20250904_191814.xlsx'
+Traceback (most recent call last):
+  File "C:\Program Files\Python310\lib\shutil.py", line 813, in move
+    os.rename(src, real_dst)
+PermissionError: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\ArchivosLinkedin_20250904_191814.xlsx' -> 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedinBK\\ArchivosLinkedin_20250904_191814_20250904192907.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin\mergeCSV.py", line 199, in RotarCarpetaSalida
+    shutil.move(str(item), str(destino))
+  File "C:\Program Files\Python310\lib\shutil.py", line 834, in move
+    os.unlink(src)
+PermissionError: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\ArchivosLinkedin_20250904_191814.xlsx'
+
+2025-09-04 19:29:07 [ERROR] [rotate] Error moviendo/eliminando C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin\~$ArchivosLinkedin_20250904_191814.xlsx: [Errno 13] Permission denied: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\~$ArchivosLinkedin_20250904_191814.xlsx'
+Traceback (most recent call last):
+  File "C:\Program Files\Python310\lib\shutil.py", line 813, in move
+    os.rename(src, real_dst)
+PermissionError: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\~$ArchivosLinkedin_20250904_191814.xlsx' -> 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedinBK\\~$ArchivosLinkedin_20250904_191814.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin\mergeCSV.py", line 199, in RotarCarpetaSalida
+    shutil.move(str(item), str(destino))
+  File "C:\Program Files\Python310\lib\shutil.py", line 833, in move
+    copy_function(src, real_dst)
+  File "C:\Program Files\Python310\lib\shutil.py", line 434, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+  File "C:\Program Files\Python310\lib\shutil.py", line 254, in copyfile
+    with open(src, 'rb') as fsrc:
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\~$ArchivosLinkedin_20250904_191814.xlsx'
+
+2025-09-04 19:29:07 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 19:29:07 [INFO]   encoding detectado: utf-8
+2025-09-04 19:29:07 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 19:29:07 [INFO]   encoding detectado: utf-8
+2025-09-04 19:29:07 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 19:29:07 [INFO]   encoding detectado: utf-8
+2025-09-04 19:29:07 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 19:29:07 [INFO]   encoding detectado: utf-8
+2025-09-04 19:29:07 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 19:29:07 [INFO]   encoding detectado: utf-8
+2025-09-04 19:29:07 [INFO] Procesando CEPPROCLEAN_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 19:29:07 [INFO]   encoding detectado: utf-8
+2025-09-04 19:29:07 [INFO] Procesando CEPPROD40 - GERENCIA DE PRODUCCION 4.0_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 19:29:07 [INFO]   encoding detectado: utf-8
+2025-09-04 19:29:07 [INFO] Procesando CEPPROD40 - GERENCIA DE PRODUCCION 4.0_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 19:29:07 [INFO]   encoding detectado: utf-8
+2025-09-04 19:29:07 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 19:29:07 [INFO]   encoding detectado: utf-8
+2025-09-04 19:29:07 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 19:29:07 [INFO]   encoding detectado: utf-8
+2025-09-04 19:29:07 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 19:29:07 [INFO]   encoding detectado: utf-8
+2025-09-04 19:29:07 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 19:29:07 [INFO]   encoding detectado: utf-8
+2025-09-04 19:29:07 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 19:29:07 [INFO]   encoding detectado: utf-8
+2025-09-04 19:29:08 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (6).csv ...
+2025-09-04 19:29:08 [INFO]   encoding detectado: utf-8
+2025-09-04 19:29:08 [INFO] [compare] SHA nuevo: 54843da8ee7eab4a5c9952f0232e12e85b332f04fc1372695c691e9fb7b9bab6
+2025-09-04 19:29:08 [INFO] [compare] SHA previo: 54843da8ee7eab4a5c9952f0232e12e85b332f04fc1372695c691e9fb7b9bab6
+2025-09-04 19:29:08 [INFO] Contenido idéntico a la versión previa → no se genera nuevo archivo
+2025-09-04 19:30:35 [INFO] Directorio LinkedIn detectado en: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin
+2025-09-04 19:30:35 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin
+2025-09-04 19:30:35 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin
+2025-09-04 19:30:35 [INFO] Carpeta salida: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin
+2025-09-04 19:30:35 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK
+2025-09-04 19:30:35 [ERROR] [rotate] Error moviendo/eliminando C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin\ArchivosLinkedin_20250904_191814.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\ArchivosLinkedin_20250904_191814.xlsx'
+Traceback (most recent call last):
+  File "C:\Program Files\Python310\lib\shutil.py", line 813, in move
+    os.rename(src, real_dst)
+PermissionError: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\ArchivosLinkedin_20250904_191814.xlsx' -> 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedinBK\\ArchivosLinkedin_20250904_191814_20250904193035.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin\mergeCSV.py", line 199, in RotarCarpetaSalida
+    shutil.move(str(item), str(destino))
+  File "C:\Program Files\Python310\lib\shutil.py", line 834, in move
+    os.unlink(src)
+PermissionError: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\ArchivosLinkedin_20250904_191814.xlsx'
+
+2025-09-04 19:30:35 [ERROR] [rotate] Error moviendo/eliminando C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin\~$ArchivosLinkedin_20250904_191814.xlsx: [Errno 13] Permission denied: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\~$ArchivosLinkedin_20250904_191814.xlsx'
+Traceback (most recent call last):
+  File "C:\Program Files\Python310\lib\shutil.py", line 813, in move
+    os.rename(src, real_dst)
+PermissionError: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\~$ArchivosLinkedin_20250904_191814.xlsx' -> 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedinBK\\~$ArchivosLinkedin_20250904_191814.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin\mergeCSV.py", line 199, in RotarCarpetaSalida
+    shutil.move(str(item), str(destino))
+  File "C:\Program Files\Python310\lib\shutil.py", line 833, in move
+    copy_function(src, real_dst)
+  File "C:\Program Files\Python310\lib\shutil.py", line 434, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+  File "C:\Program Files\Python310\lib\shutil.py", line 254, in copyfile
+    with open(src, 'rb') as fsrc:
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\~$ArchivosLinkedin_20250904_191814.xlsx'
+
+2025-09-04 19:30:35 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 19:30:35 [INFO]   encoding detectado: utf-8
+2025-09-04 19:30:35 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 19:30:35 [INFO]   encoding detectado: utf-8
+2025-09-04 19:30:35 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 19:30:35 [INFO]   encoding detectado: utf-8
+2025-09-04 19:30:36 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 19:30:36 [INFO]   encoding detectado: utf-8
+2025-09-04 19:30:36 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 19:30:36 [INFO]   encoding detectado: utf-8
+2025-09-04 19:30:36 [INFO] Procesando CEPPROCLEAN_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 19:30:36 [INFO]   encoding detectado: utf-8
+2025-09-04 19:30:36 [INFO] Procesando CEPPROD40 - GERENCIA DE PRODUCCION 4.0_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 19:30:36 [INFO]   encoding detectado: utf-8
+2025-09-04 19:30:36 [INFO] Procesando CEPPROD40 - GERENCIA DE PRODUCCION 4.0_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 19:30:36 [INFO]   encoding detectado: utf-8
+2025-09-04 19:30:36 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 19:30:36 [INFO]   encoding detectado: utf-8
+2025-09-04 19:30:36 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 19:30:36 [INFO]   encoding detectado: utf-8
+2025-09-04 19:30:36 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 19:30:36 [INFO]   encoding detectado: utf-8
+2025-09-04 19:30:36 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 19:30:36 [INFO]   encoding detectado: utf-8
+2025-09-04 19:30:36 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 19:30:36 [INFO]   encoding detectado: utf-8
+2025-09-04 19:30:36 [INFO] [compare] SHA nuevo: f18c7dd818778a20cf0721112c5dcdb5e25024eb9c489a90517d6bf703596cb5
+2025-09-04 19:30:36 [INFO] [compare] SHA previo: 54843da8ee7eab4a5c9952f0232e12e85b332f04fc1372695c691e9fb7b9bab6
+2025-09-04 19:30:36 [INFO] Completado: 286 filas escritas en C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin\ArchivosLinkedin_20250904_193036.xlsx
+2025-09-04 19:30:36 [INFO] [backup] Copiado ArchivosLinkedin_20250904_193036.xlsx -> C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK\ArchivosLinkedin_20250904_193036.xlsx
+2025-09-04 19:31:36 [INFO] Directorio LinkedIn detectado en: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin
+2025-09-04 19:31:36 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin
+2025-09-04 19:31:36 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin
+2025-09-04 19:31:36 [INFO] Carpeta salida: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin
+2025-09-04 19:31:36 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK
+2025-09-04 19:31:36 [ERROR] [rotate] Error moviendo/eliminando C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin\ArchivosLinkedin_20250904_191814.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\ArchivosLinkedin_20250904_191814.xlsx'
+Traceback (most recent call last):
+  File "C:\Program Files\Python310\lib\shutil.py", line 813, in move
+    os.rename(src, real_dst)
+PermissionError: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\ArchivosLinkedin_20250904_191814.xlsx' -> 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedinBK\\ArchivosLinkedin_20250904_191814_20250904193136.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin\mergeCSV.py", line 199, in RotarCarpetaSalida
+    shutil.move(str(item), str(destino))
+  File "C:\Program Files\Python310\lib\shutil.py", line 834, in move
+    os.unlink(src)
+PermissionError: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\ArchivosLinkedin_20250904_191814.xlsx'
+
+2025-09-04 19:31:36 [INFO] [rotate] Movido ArchivosLinkedin_20250904_193036.xlsx -> C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK\ArchivosLinkedin_20250904_193036_20250904193136.xlsx
+2025-09-04 19:31:36 [ERROR] [rotate] Error moviendo/eliminando C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin\~$ArchivosLinkedin_20250904_191814.xlsx: [Errno 13] Permission denied: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\~$ArchivosLinkedin_20250904_191814.xlsx'
+Traceback (most recent call last):
+  File "C:\Program Files\Python310\lib\shutil.py", line 813, in move
+    os.rename(src, real_dst)
+PermissionError: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\~$ArchivosLinkedin_20250904_191814.xlsx' -> 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedinBK\\~$ArchivosLinkedin_20250904_191814.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin\mergeCSV.py", line 199, in RotarCarpetaSalida
+    shutil.move(str(item), str(destino))
+  File "C:\Program Files\Python310\lib\shutil.py", line 833, in move
+    copy_function(src, real_dst)
+  File "C:\Program Files\Python310\lib\shutil.py", line 434, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+  File "C:\Program Files\Python310\lib\shutil.py", line 254, in copyfile
+    with open(src, 'rb') as fsrc:
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\~$ArchivosLinkedin_20250904_191814.xlsx'
+
+2025-09-04 19:31:36 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 19:31:36 [INFO]   encoding detectado: utf-8
+2025-09-04 19:31:36 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 19:31:36 [INFO]   encoding detectado: utf-8
+2025-09-04 19:31:36 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 19:31:36 [INFO]   encoding detectado: utf-8
+2025-09-04 19:31:36 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 19:31:36 [INFO]   encoding detectado: utf-8
+2025-09-04 19:31:36 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 19:31:36 [INFO]   encoding detectado: utf-8
+2025-09-04 19:31:36 [INFO] Procesando CEPPROCLEAN_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 19:31:36 [INFO]   encoding detectado: utf-8
+2025-09-04 19:31:36 [INFO] Procesando CEPPROD40 - GERENCIA DE PRODUCCION 4.0_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 19:31:36 [INFO]   encoding detectado: utf-8
+2025-09-04 19:31:36 [INFO] Procesando CEPPROD40 - GERENCIA DE PRODUCCION 4.0_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 19:31:36 [INFO]   encoding detectado: utf-8
+2025-09-04 19:31:36 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 19:31:36 [INFO]   encoding detectado: utf-8
+2025-09-04 19:31:36 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 19:31:36 [INFO]   encoding detectado: utf-8
+2025-09-04 19:31:36 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 19:31:36 [INFO]   encoding detectado: utf-8
+2025-09-04 19:31:36 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 19:31:36 [INFO]   encoding detectado: utf-8
+2025-09-04 19:31:36 [INFO] [compare] SHA nuevo: d00f35772957f11169f348203aaf38a2293838aec70f7ac14d1834b0fe06f55a
+2025-09-04 19:31:36 [INFO] [compare] SHA previo: f18c7dd818778a20cf0721112c5dcdb5e25024eb9c489a90517d6bf703596cb5
+2025-09-04 19:31:36 [INFO] Completado: 189 filas escritas en C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin\ArchivosLinkedin_20250904_193136.xlsx
+2025-09-04 19:31:36 [INFO] [backup] Copiado ArchivosLinkedin_20250904_193136.xlsx -> C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK\ArchivosLinkedin_20250904_193136.xlsx
+2025-09-04 19:32:10 [INFO] Directorio LinkedIn detectado en: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin
+2025-09-04 19:32:10 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin
+2025-09-04 19:32:10 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin
+2025-09-04 19:32:10 [INFO] Carpeta salida: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin
+2025-09-04 19:32:10 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK
+2025-09-04 19:32:10 [ERROR] [rotate] Error moviendo/eliminando C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin\ArchivosLinkedin_20250904_191814.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\ArchivosLinkedin_20250904_191814.xlsx'
+Traceback (most recent call last):
+  File "C:\Program Files\Python310\lib\shutil.py", line 813, in move
+    os.rename(src, real_dst)
+PermissionError: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\ArchivosLinkedin_20250904_191814.xlsx' -> 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedinBK\\ArchivosLinkedin_20250904_191814_20250904193210.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin\mergeCSV.py", line 199, in RotarCarpetaSalida
+    shutil.move(str(item), str(destino))
+  File "C:\Program Files\Python310\lib\shutil.py", line 834, in move
+    os.unlink(src)
+PermissionError: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\ArchivosLinkedin_20250904_191814.xlsx'
+
+2025-09-04 19:32:10 [INFO] [rotate] Movido ArchivosLinkedin_20250904_193136.xlsx -> C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK\ArchivosLinkedin_20250904_193136_20250904193210.xlsx
+2025-09-04 19:32:10 [ERROR] [rotate] Error moviendo/eliminando C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin\~$ArchivosLinkedin_20250904_191814.xlsx: [Errno 13] Permission denied: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\~$ArchivosLinkedin_20250904_191814.xlsx'
+Traceback (most recent call last):
+  File "C:\Program Files\Python310\lib\shutil.py", line 813, in move
+    os.rename(src, real_dst)
+PermissionError: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\~$ArchivosLinkedin_20250904_191814.xlsx' -> 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedinBK\\~$ArchivosLinkedin_20250904_191814.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin\mergeCSV.py", line 199, in RotarCarpetaSalida
+    shutil.move(str(item), str(destino))
+  File "C:\Program Files\Python310\lib\shutil.py", line 833, in move
+    copy_function(src, real_dst)
+  File "C:\Program Files\Python310\lib\shutil.py", line 434, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+  File "C:\Program Files\Python310\lib\shutil.py", line 254, in copyfile
+    with open(src, 'rb') as fsrc:
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\~$ArchivosLinkedin_20250904_191814.xlsx'
+
+2025-09-04 19:32:10 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 19:32:10 [INFO]   encoding detectado: utf-8
+2025-09-04 19:32:10 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 19:32:10 [INFO]   encoding detectado: utf-8
+2025-09-04 19:32:10 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 19:32:10 [INFO]   encoding detectado: utf-8
+2025-09-04 19:32:10 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 19:32:10 [INFO]   encoding detectado: utf-8
+2025-09-04 19:32:10 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 19:32:10 [INFO]   encoding detectado: utf-8
+2025-09-04 19:32:10 [INFO] Procesando CEPPROCLEAN_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 19:32:10 [INFO]   encoding detectado: utf-8
+2025-09-04 19:32:10 [INFO] Procesando CEPPROD40 - GERENCIA DE PRODUCCION 4.0_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 19:32:10 [INFO]   encoding detectado: utf-8
+2025-09-04 19:32:10 [INFO] Procesando CEPPROD40 - GERENCIA DE PRODUCCION 4.0_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 19:32:10 [INFO]   encoding detectado: utf-8
+2025-09-04 19:32:10 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 19:32:10 [INFO]   encoding detectado: utf-8
+2025-09-04 19:32:10 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 19:32:10 [INFO]   encoding detectado: utf-8
+2025-09-04 19:32:10 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 19:32:10 [INFO]   encoding detectado: utf-8
+2025-09-04 19:32:10 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 19:32:10 [INFO]   encoding detectado: utf-8
+2025-09-04 19:32:10 [INFO] [compare] SHA nuevo: d00f35772957f11169f348203aaf38a2293838aec70f7ac14d1834b0fe06f55a
+2025-09-04 19:32:10 [INFO] [compare] SHA previo: d00f35772957f11169f348203aaf38a2293838aec70f7ac14d1834b0fe06f55a
+2025-09-04 19:32:10 [INFO] Contenido idéntico a la versión previa, no se genera nuevo archivo
+2025-09-04 19:32:34 [INFO] Directorio LinkedIn detectado en: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin
+2025-09-04 19:32:34 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin
+2025-09-04 19:32:34 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin
+2025-09-04 19:32:34 [INFO] Carpeta salida: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin
+2025-09-04 19:32:34 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK
+2025-09-04 19:32:34 [ERROR] [rotate] Error moviendo/eliminando C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin\ArchivosLinkedin_20250904_191814.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\ArchivosLinkedin_20250904_191814.xlsx'
+Traceback (most recent call last):
+  File "C:\Program Files\Python310\lib\shutil.py", line 813, in move
+    os.rename(src, real_dst)
+PermissionError: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\ArchivosLinkedin_20250904_191814.xlsx' -> 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedinBK\\ArchivosLinkedin_20250904_191814_20250904193234.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin\mergeCSV.py", line 199, in RotarCarpetaSalida
+    shutil.move(str(item), str(destino))
+  File "C:\Program Files\Python310\lib\shutil.py", line 834, in move
+    os.unlink(src)
+PermissionError: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\ArchivosLinkedin_20250904_191814.xlsx'
+
+2025-09-04 19:32:34 [ERROR] [rotate] Error moviendo/eliminando C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin\~$ArchivosLinkedin_20250904_191814.xlsx: [Errno 13] Permission denied: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\~$ArchivosLinkedin_20250904_191814.xlsx'
+Traceback (most recent call last):
+  File "C:\Program Files\Python310\lib\shutil.py", line 813, in move
+    os.rename(src, real_dst)
+PermissionError: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\~$ArchivosLinkedin_20250904_191814.xlsx' -> 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedinBK\\~$ArchivosLinkedin_20250904_191814.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin\mergeCSV.py", line 199, in RotarCarpetaSalida
+    shutil.move(str(item), str(destino))
+  File "C:\Program Files\Python310\lib\shutil.py", line 833, in move
+    copy_function(src, real_dst)
+  File "C:\Program Files\Python310\lib\shutil.py", line 434, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+  File "C:\Program Files\Python310\lib\shutil.py", line 254, in copyfile
+    with open(src, 'rb') as fsrc:
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\Usuario\\Desktop\\2024-Tr\\UnifacionCSVLinkedin\\Linkedin\\FormLeadsLinkedin\\~$ArchivosLinkedin_20250904_191814.xlsx'
+
+2025-09-04 19:32:34 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 19:32:34 [INFO]   encoding detectado: utf-8
+2025-09-04 19:32:34 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 19:32:34 [INFO]   encoding detectado: utf-8
+2025-09-04 19:32:34 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 19:32:34 [INFO]   encoding detectado: utf-8
+2025-09-04 19:32:34 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 19:32:34 [INFO]   encoding detectado: utf-8
+2025-09-04 19:32:34 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 19:32:34 [INFO]   encoding detectado: utf-8
+2025-09-04 19:32:34 [INFO] Procesando CEPPROCLEAN_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 19:32:34 [INFO]   encoding detectado: utf-8
+2025-09-04 19:32:34 [INFO] Procesando CEPPROD40 - GERENCIA DE PRODUCCION 4.0_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 19:32:34 [INFO]   encoding detectado: utf-8
+2025-09-04 19:32:34 [INFO] Procesando CEPPROD40 - GERENCIA DE PRODUCCION 4.0_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 19:32:34 [INFO]   encoding detectado: utf-8
+2025-09-04 19:32:34 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 19:32:34 [INFO]   encoding detectado: utf-8
+2025-09-04 19:32:34 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 19:32:34 [INFO]   encoding detectado: utf-8
+2025-09-04 19:32:34 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 19:32:34 [INFO]   encoding detectado: utf-8
+2025-09-04 19:32:34 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 19:32:34 [INFO]   encoding detectado: utf-8
+2025-09-04 19:32:34 [INFO] [compare] SHA nuevo: d00f35772957f11169f348203aaf38a2293838aec70f7ac14d1834b0fe06f55a
+2025-09-04 19:32:34 [INFO] [compare] SHA previo: d00f35772957f11169f348203aaf38a2293838aec70f7ac14d1834b0fe06f55a
+2025-09-04 19:32:34 [INFO] Contenido idéntico a la versión previa, no se genera nuevo archivo
+2025-09-04 19:50:19 [INFO] Directorio LinkedIn detectado en: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin
+2025-09-04 19:50:19 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin
+2025-09-04 19:50:19 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin
+2025-09-04 19:50:19 [INFO] Carpeta salida: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin
+2025-09-04 19:50:19 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK
+2025-09-04 19:50:19 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 19:50:19 [INFO]   encoding detectado: utf-8
+2025-09-04 19:50:19 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 19:50:19 [INFO]   encoding detectado: utf-8
+2025-09-04 19:50:19 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 19:50:19 [INFO]   encoding detectado: utf-8
+2025-09-04 19:50:19 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 19:50:19 [INFO]   encoding detectado: utf-8
+2025-09-04 19:50:19 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 19:50:19 [INFO]   encoding detectado: utf-8
+2025-09-04 19:50:19 [INFO] Procesando CEPPROCLEAN_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 19:50:19 [INFO]   encoding detectado: utf-8
+2025-09-04 19:50:19 [INFO] Procesando CEPPROD40 - GERENCIA DE PRODUCCION 4.0_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 19:50:19 [INFO]   encoding detectado: utf-8
+2025-09-04 19:50:19 [INFO] Procesando CEPPROD40 - GERENCIA DE PRODUCCION 4.0_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 19:50:19 [INFO]   encoding detectado: utf-8
+2025-09-04 19:50:19 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 19:50:19 [INFO]   encoding detectado: utf-8
+2025-09-04 19:50:19 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 19:50:19 [INFO]   encoding detectado: utf-8
+2025-09-04 19:50:19 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 19:50:19 [INFO]   encoding detectado: utf-8
+2025-09-04 19:50:19 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 19:50:19 [INFO]   encoding detectado: utf-8
+2025-09-04 19:50:20 [INFO] [compare] SHA nuevo: d00f35772957f11169f348203aaf38a2293838aec70f7ac14d1834b0fe06f55a
+2025-09-04 19:50:20 [INFO] [compare] SHA previo: 54843da8ee7eab4a5c9952f0232e12e85b332f04fc1372695c691e9fb7b9bab6
+2025-09-04 19:50:20 [INFO] Completado: 189 filas escritas en C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin\ArchivosLinkedin_20250904_195020.xlsx
+2025-09-04 19:50:20 [INFO] [backup] Copiado ArchivosLinkedin_20250904_195020.xlsx -> C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK\ArchivosLinkedin_20250904_195020.xlsx
+2025-09-04 19:50:20 [INFO] Eliminado archivo de entrada procesado: CEPMTTO40_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 19:50:20 [INFO] Eliminado archivo de entrada procesado: CEPMTTO40_leads_2025-08-16_2025-08-22 (3).csv
+2025-09-04 19:50:20 [INFO] Eliminado archivo de entrada procesado: CEPMTTO40_leads_2025-08-16_2025-08-22 (4).csv
+2025-09-04 19:50:20 [INFO] Eliminado archivo de entrada procesado: CEPMTTO40_leads_2025-08-16_2025-08-22 (5).csv
+2025-09-04 19:50:20 [INFO] Eliminado archivo de entrada procesado: CEPMTTO40_leads_2025-08-16_2025-08-22.csv
+2025-09-04 19:50:20 [INFO] Eliminado archivo de entrada procesado: CEPPROCLEAN_leads_2025-08-16_2025-08-22.csv
+2025-09-04 19:50:20 [INFO] Eliminado archivo de entrada procesado: CEPPROD40 - GERENCIA DE PRODUCCION 4.0_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 19:50:20 [INFO] Eliminado archivo de entrada procesado: CEPPROD40 - GERENCIA DE PRODUCCION 4.0_leads_2025-08-16_2025-08-22.csv
+2025-09-04 19:50:20 [INFO] Eliminado archivo de entrada procesado: CEPPROD40_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 19:50:20 [INFO] Eliminado archivo de entrada procesado: CEPPROD40_leads_2025-08-16_2025-08-22 (3).csv
+2025-09-04 19:50:20 [INFO] Eliminado archivo de entrada procesado: CEPPROD40_leads_2025-08-16_2025-08-22 (4).csv
+2025-09-04 19:50:20 [INFO] Eliminado archivo de entrada procesado: CEPPROD40_leads_2025-08-16_2025-08-22 (5).csv
+2025-09-04 19:50:58 [INFO] Directorio LinkedIn detectado en: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin
+2025-09-04 19:50:58 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin
+2025-09-04 19:50:58 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin
+2025-09-04 19:50:58 [INFO] Carpeta salida: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin
+2025-09-04 19:50:58 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK
+2025-09-04 19:50:58 [ERROR] No se encontraron archivos en C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin con patrón *.csv
+2025-09-04 19:51:38 [INFO] Directorio LinkedIn detectado en: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin
+2025-09-04 19:51:38 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin
+2025-09-04 19:51:38 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin
+2025-09-04 19:51:38 [INFO] Carpeta salida: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin
+2025-09-04 19:51:38 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK
+2025-09-04 19:51:38 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (10).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (11).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (12).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (13).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (14).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (15).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (16).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (6).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (7).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (8).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (9).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PAEGERRELCOMUN_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] Procesando PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 19:51:38 [INFO]   encoding detectado: utf-8
+2025-09-04 19:51:38 [INFO] [compare] SHA nuevo: 2a3d5aedde323286e96f8987753e7cfe0f7517656ec2538b17934bb1657b2cc0
+2025-09-04 19:51:38 [INFO] [compare] SHA previo: d00f35772957f11169f348203aaf38a2293838aec70f7ac14d1834b0fe06f55a
+2025-09-04 19:51:39 [INFO] Completado: 1534 filas escritas en C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin\ArchivosLinkedin_20250904_195138.xlsx
+2025-09-04 19:51:39 [INFO] [backup] Copiado ArchivosLinkedin_20250904_195138.xlsx -> C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK\ArchivosLinkedin_20250904_195138.xlsx
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (3).csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (4).csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (5).csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22.csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (10).csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (11).csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (12).csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (13).csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (14).csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (15).csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (16).csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (3).csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (4).csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (5).csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (6).csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (7).csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (8).csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (9).csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22.csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (3).csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (4).csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PAEGERRELCOMUN_leads_2025-08-16_2025-08-22.csv
+2025-09-04 19:51:39 [INFO] Eliminado archivo de entrada procesado: PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:04:47 [INFO] Directorio LinkedIn detectado en: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin
+2025-09-04 20:04:47 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin
+2025-09-04 20:04:47 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin
+2025-09-04 20:04:47 [INFO] Carpeta salida (out): C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin
+2025-09-04 20:04:47 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK
+2025-09-04 20:04:47 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (10).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (11).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (12).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (13).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (14).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (15).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (16).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (6).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (7).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (8).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (9).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PAEGERRELCOMUN_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:47 [INFO] Procesando PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 20:04:47 [INFO]   encoding detectado: utf-8
+2025-09-04 20:04:48 [INFO] Completado: 1874 filas escritas en C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin\ArchivosLinkedin_20250904_200447.xlsx
+2025-09-04 20:04:48 [INFO] [backup] Copiado ArchivosLinkedin_20250904_200447.xlsx -> C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK\ArchivosLinkedin_20250904_200447.xlsx
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (3).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (4).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (5).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (10).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (11).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (12).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (13).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (14).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (15).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (16).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (3).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (4).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (5).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (6).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (7).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (8).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (9).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (3).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (4).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PAEGERRELCOMUN_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:04:48 [INFO] Eliminado archivo de entrada procesado: PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 20:05:18 [INFO] Directorio LinkedIn detectado en: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin
+2025-09-04 20:05:18 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin
+2025-09-04 20:05:18 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin
+2025-09-04 20:05:18 [INFO] Carpeta salida (out): C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin
+2025-09-04 20:05:18 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK
+2025-09-04 20:05:18 [ERROR] No se encontraron archivos en C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin con patrón *.csv
+2025-09-04 20:05:36 [INFO] Directorio LinkedIn detectado en: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin
+2025-09-04 20:05:36 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin
+2025-09-04 20:05:36 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin
+2025-09-04 20:05:36 [INFO] Carpeta salida (out): C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin
+2025-09-04 20:05:36 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK
+2025-09-04 20:05:36 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 20:05:36 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:36 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 20:05:36 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:36 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 20:05:36 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:36 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 20:05:36 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:36 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 20:05:36 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:36 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:05:36 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:36 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 20:05:36 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:36 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (10).csv ...
+2025-09-04 20:05:36 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:36 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (11).csv ...
+2025-09-04 20:05:36 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:36 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (12).csv ...
+2025-09-04 20:05:36 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:36 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (13).csv ...
+2025-09-04 20:05:36 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:36 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (14).csv ...
+2025-09-04 20:05:36 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:36 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (15).csv ...
+2025-09-04 20:05:36 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:36 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (16).csv ...
+2025-09-04 20:05:36 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:36 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 20:05:36 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:36 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 20:05:36 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:36 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 20:05:36 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:36 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 20:05:36 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:36 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (6).csv ...
+2025-09-04 20:05:36 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:37 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (7).csv ...
+2025-09-04 20:05:37 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:37 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (8).csv ...
+2025-09-04 20:05:37 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:37 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (9).csv ...
+2025-09-04 20:05:37 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:37 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:05:37 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:37 [INFO] Procesando PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 20:05:37 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:37 [INFO] Procesando PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 20:05:37 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:37 [INFO] Procesando PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 20:05:37 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:37 [INFO] Procesando PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 20:05:37 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:37 [INFO] Procesando PAEGERRELCOMUN_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:05:37 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:37 [INFO] Procesando PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 20:05:37 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:37 [INFO] Procesando PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 20:05:37 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:37 [INFO] [compare] SHA nuevo: 677345065e977aaf25d6809a7f98d7809701148e08d2ec2efd7ea2d90db1fbfb
+2025-09-04 20:05:37 [INFO] [compare] SHA previo (archivo: ArchivosLinkedin_20250904_200447.xlsx): 677345065e977aaf25d6809a7f98d7809701148e08d2ec2efd7ea2d90db1fbfb
+2025-09-04 20:05:37 [INFO] Contenido idéntico a la versión previa; no se genera nuevo archivo.
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (3).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (4).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (5).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (10).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (11).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (12).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (13).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (14).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (15).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (16).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (3).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (4).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (5).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (6).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (7).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (8).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (9).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (3).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (4).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PAEGERRELCOMUN_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:05:37 [INFO] Eliminado archivo de entrada procesado: PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 20:05:59 [INFO] Directorio LinkedIn detectado en: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin
+2025-09-04 20:05:59 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin
+2025-09-04 20:05:59 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin
+2025-09-04 20:05:59 [INFO] Carpeta salida (out): C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin
+2025-09-04 20:05:59 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK
+2025-09-04 20:05:59 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (10).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (11).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (12).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (13).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (14).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (15).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (16).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (6).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (7).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (8).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22 (9).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERMTTO_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PAEGERRELCOMUN_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:05:59 [INFO] Procesando PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 20:05:59 [INFO]   encoding detectado: utf-8
+2025-09-04 20:06:00 [INFO] [compare] SHA nuevo: 09232bee981c47c3b84dd9f4332c72ad1cb8828749d1bff154b76b7a84de2695
+2025-09-04 20:06:00 [INFO] [compare] SHA previo (archivo: ArchivosLinkedin_20250904_200447.xlsx): 677345065e977aaf25d6809a7f98d7809701148e08d2ec2efd7ea2d90db1fbfb
+2025-09-04 20:06:00 [INFO] Contenido diferente: se procederá a reemplazar la versión viva por la nueva.
+2025-09-04 20:06:00 [INFO] [rotate] Movido ArchivosLinkedin_20250904_200447.xlsx -> C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK\ArchivosLinkedin_20250904_200447_20250904200600.xlsx
+2025-09-04 20:06:00 [INFO] Completado: 1873 filas escritas en C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin\ArchivosLinkedin_20250904_200600.xlsx
+2025-09-04 20:06:00 [INFO] [backup] Copiado ArchivosLinkedin_20250904_200600.xlsx -> C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK\ArchivosLinkedin_20250904_200600.xlsx
+2025-09-04 20:06:00 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:06:00 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 20:06:00 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (3).csv
+2025-09-04 20:06:00 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (4).csv
+2025-09-04 20:06:00 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (5).csv
+2025-09-04 20:06:00 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:06:00 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:06:00 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (10).csv
+2025-09-04 20:06:00 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (11).csv
+2025-09-04 20:06:00 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (12).csv
+2025-09-04 20:06:01 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (13).csv
+2025-09-04 20:06:01 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (14).csv
+2025-09-04 20:06:01 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (15).csv
+2025-09-04 20:06:01 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (16).csv
+2025-09-04 20:06:01 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 20:06:01 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (3).csv
+2025-09-04 20:06:01 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (4).csv
+2025-09-04 20:06:01 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (5).csv
+2025-09-04 20:06:01 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (6).csv
+2025-09-04 20:06:01 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (7).csv
+2025-09-04 20:06:01 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (8).csv
+2025-09-04 20:06:01 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22 (9).csv
+2025-09-04 20:06:01 [INFO] Eliminado archivo de entrada procesado: PAEGERMTTO_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:06:01 [INFO] Eliminado archivo de entrada procesado: PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:06:01 [INFO] Eliminado archivo de entrada procesado: PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (3).csv
+2025-09-04 20:06:01 [INFO] Eliminado archivo de entrada procesado: PAEGERRELCOMUN_leads_2025-08-16_2025-08-22 (4).csv
+2025-09-04 20:06:01 [INFO] Eliminado archivo de entrada procesado: PAEGERRELCOMUN_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:06:01 [INFO] Eliminado archivo de entrada procesado: PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:06:01 [INFO] Eliminado archivo de entrada procesado: PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 20:08:30 [INFO] Directorio LinkedIn detectado en: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin
+2025-09-04 20:08:30 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin
+2025-09-04 20:08:30 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin
+2025-09-04 20:08:30 [INFO] Carpeta salida (out): C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin
+2025-09-04 20:08:30 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK
+2025-09-04 20:08:30 [ERROR] No se encontraron archivos en C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin con patrón *.csv
+2025-09-04 20:10:18 [INFO] Directorio LinkedIn detectado en: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin
+2025-09-04 20:10:18 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin
+2025-09-04 20:10:18 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin
+2025-09-04 20:10:18 [INFO] Carpeta salida (out): C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin
+2025-09-04 20:10:18 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK
+2025-09-04 20:10:18 [INFO] Procesando CEPCONTFIN - Controller Financiero_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPFINCORPOWERBI_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPFINCORPOWERBI_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPFINCORPOWERBI_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPFINCORPOWERBI_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPFINCORPOWERBIFIN_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPFINCORPOWERBIFIN_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPFINCORPOWERBIFIN_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPMTTO4.0_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPMTTO40_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPPROCLEAN_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPPROD40 - GERENCIA DE PRODUCCION 4.0_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPPROD40 - GERENCIA DE PRODUCCION 4.0_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (6).csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (7).csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:18 [INFO] Procesando CEPPROD40_leads_2025-08-16_2025-08-22 (8).csv ...
+2025-09-04 20:10:18 [INFO]   encoding detectado: utf-8
+2025-09-04 20:10:19 [INFO] [compare] SHA nuevo: 3351f8f4eb50a7836fc90ad0fb3918a54b5c5bf4ad74c9d10d4a45cf95ea6802
+2025-09-04 20:10:19 [INFO] [compare] SHA previo (archivo: ArchivosLinkedin_20250904_200600.xlsx): 09232bee981c47c3b84dd9f4332c72ad1cb8828749d1bff154b76b7a84de2695
+2025-09-04 20:10:19 [INFO] Contenido diferente: se procederá a reemplazar la versión viva por la nueva.
+2025-09-04 20:10:19 [INFO] [rotate] Movido ArchivosLinkedin_20250904_200600.xlsx -> C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK\ArchivosLinkedin_20250904_200600_20250904201019.xlsx
+2025-09-04 20:10:19 [INFO] Completado: 865 filas escritas en C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin\ArchivosLinkedin_20250904_201019.xlsx
+2025-09-04 20:10:19 [INFO] [backup] Copiado ArchivosLinkedin_20250904_201019.xlsx -> C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK\ArchivosLinkedin_20250904_201019.xlsx
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPCONTFIN - Controller Financiero_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPFINCORPOWERBI_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPFINCORPOWERBI_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPFINCORPOWERBI_leads_2025-08-16_2025-08-22 (3).csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPFINCORPOWERBI_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPFINCORPOWERBIFIN_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPFINCORPOWERBIFIN_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPFINCORPOWERBIFIN_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPMTTO4.0_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPMTTO40_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPMTTO40_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPMTTO40_leads_2025-08-16_2025-08-22 (3).csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPMTTO40_leads_2025-08-16_2025-08-22 (4).csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPMTTO40_leads_2025-08-16_2025-08-22 (5).csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPMTTO40_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPPROCLEAN_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPPROD40 - GERENCIA DE PRODUCCION 4.0_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPPROD40 - GERENCIA DE PRODUCCION 4.0_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPPROD40_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPPROD40_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPPROD40_leads_2025-08-16_2025-08-22 (3).csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPPROD40_leads_2025-08-16_2025-08-22 (4).csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPPROD40_leads_2025-08-16_2025-08-22 (5).csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPPROD40_leads_2025-08-16_2025-08-22 (6).csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPPROD40_leads_2025-08-16_2025-08-22 (7).csv
+2025-09-04 20:10:19 [INFO] Eliminado archivo de entrada procesado: CEPPROD40_leads_2025-08-16_2025-08-22 (8).csv
+2025-09-04 20:16:07 [INFO] Directorio LinkedIn detectado en: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin
+2025-09-04 20:16:07 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin
+2025-09-04 20:16:07 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin
+2025-09-04 20:16:07 [INFO] Carpeta salida (out): C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin
+2025-09-04 20:16:07 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK
+2025-09-04 20:16:07 [ERROR] No se encontraron archivos en C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin con patrón *.csv
+2025-09-04 20:16:34 [INFO] Directorio LinkedIn detectado en: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin
+2025-09-04 20:16:34 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin
+2025-09-04 20:16:34 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin
+2025-09-04 20:16:34 [INFO] Carpeta salida (out): C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin
+2025-09-04 20:16:34 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK
+2025-09-04 20:16:34 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 20:16:34 [INFO]   encoding detectado: utf-8
+2025-09-04 20:16:34 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (10).csv ...
+2025-09-04 20:16:34 [INFO]   encoding detectado: utf-8
+2025-09-04 20:16:34 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (11).csv ...
+2025-09-04 20:16:34 [INFO]   encoding detectado: utf-8
+2025-09-04 20:16:34 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (12).csv ...
+2025-09-04 20:16:34 [INFO]   encoding detectado: utf-8
+2025-09-04 20:16:34 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 20:16:34 [INFO]   encoding detectado: utf-8
+2025-09-04 20:16:34 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 20:16:34 [INFO]   encoding detectado: utf-8
+2025-09-04 20:16:34 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 20:16:34 [INFO]   encoding detectado: utf-8
+2025-09-04 20:16:34 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 20:16:34 [INFO]   encoding detectado: utf-8
+2025-09-04 20:16:34 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (6).csv ...
+2025-09-04 20:16:34 [INFO]   encoding detectado: utf-8
+2025-09-04 20:16:34 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (7).csv ...
+2025-09-04 20:16:34 [INFO]   encoding detectado: utf-8
+2025-09-04 20:16:34 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (8).csv ...
+2025-09-04 20:16:34 [INFO]   encoding detectado: utf-8
+2025-09-04 20:16:34 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (9).csv ...
+2025-09-04 20:16:34 [INFO]   encoding detectado: utf-8
+2025-09-04 20:16:34 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:16:34 [INFO]   encoding detectado: utf-8
+2025-09-04 20:16:34 [INFO] Procesando Formulario - May 20, 2025_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:16:34 [INFO]   encoding detectado: utf-8
+2025-09-04 20:16:34 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 20:16:34 [INFO]   encoding detectado: utf-8
+2025-09-04 20:16:34 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 20:16:34 [INFO]   encoding detectado: utf-8
+2025-09-04 20:16:34 [INFO] Procesando PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (7).csv ...
+2025-09-04 20:16:34 [INFO]   encoding detectado: utf-8
+2025-09-04 20:16:34 [INFO] Procesando PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (8).csv ...
+2025-09-04 20:16:34 [INFO]   encoding detectado: utf-8
+2025-09-04 20:16:34 [INFO] Procesando PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (9).csv ...
+2025-09-04 20:16:34 [INFO]   encoding detectado: utf-8
+2025-09-04 20:16:34 [INFO] Procesando PEPCONTROLFIN_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:16:34 [INFO]   encoding detectado: utf-8
+2025-09-04 20:16:35 [INFO] Completado: 2865 filas escritas en C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin\ArchivosLinkedin_20250904_201634.xlsx
+2025-09-04 20:16:35 [INFO] [backup] Copiado ArchivosLinkedin_20250904_201634.xlsx -> C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK\ArchivosLinkedin_20250904_201634.xlsx
+2025-09-04 20:16:35 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:16:35 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (10).csv
+2025-09-04 20:16:35 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (11).csv
+2025-09-04 20:16:35 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (12).csv
+2025-09-04 20:16:35 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 20:16:35 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (3).csv
+2025-09-04 20:16:35 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (4).csv
+2025-09-04 20:16:35 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (5).csv
+2025-09-04 20:16:35 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (6).csv
+2025-09-04 20:16:35 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (7).csv
+2025-09-04 20:16:35 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (8).csv
+2025-09-04 20:16:35 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (9).csv
+2025-09-04 20:16:35 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:16:35 [INFO] Eliminado archivo de entrada procesado: Formulario - May 20, 2025_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:16:35 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:16:35 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 20:16:35 [INFO] Eliminado archivo de entrada procesado: PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (7).csv
+2025-09-04 20:16:35 [INFO] Eliminado archivo de entrada procesado: PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (8).csv
+2025-09-04 20:16:35 [INFO] Eliminado archivo de entrada procesado: PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (9).csv
+2025-09-04 20:16:35 [INFO] Eliminado archivo de entrada procesado: PEPCONTROLFIN_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:16:46 [INFO] Directorio LinkedIn detectado en: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin
+2025-09-04 20:16:46 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin
+2025-09-04 20:16:46 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin
+2025-09-04 20:16:46 [INFO] Carpeta salida (out): C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin
+2025-09-04 20:16:46 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK
+2025-09-04 20:16:46 [ERROR] No se encontraron archivos en C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin con patrón *.csv
+2025-09-04 20:17:00 [INFO] Directorio LinkedIn detectado en: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin
+2025-09-04 20:17:00 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin
+2025-09-04 20:17:00 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin
+2025-09-04 20:17:00 [INFO] Carpeta salida (out): C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin
+2025-09-04 20:17:00 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK
+2025-09-04 20:17:00 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 20:17:00 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:00 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (10).csv ...
+2025-09-04 20:17:00 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:00 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (11).csv ...
+2025-09-04 20:17:00 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:00 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (12).csv ...
+2025-09-04 20:17:00 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:00 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 20:17:00 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:00 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 20:17:00 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:00 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 20:17:00 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:00 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 20:17:00 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:00 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (6).csv ...
+2025-09-04 20:17:00 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:00 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (7).csv ...
+2025-09-04 20:17:00 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:00 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (8).csv ...
+2025-09-04 20:17:00 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:00 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (9).csv ...
+2025-09-04 20:17:00 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:00 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:17:00 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:00 [INFO] Procesando Formulario - May 20, 2025_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:17:00 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:00 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 20:17:00 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:00 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 20:17:00 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:00 [INFO] Procesando PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (7).csv ...
+2025-09-04 20:17:00 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:00 [INFO] Procesando PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (8).csv ...
+2025-09-04 20:17:00 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:00 [INFO] Procesando PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (9).csv ...
+2025-09-04 20:17:00 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:00 [INFO] Procesando PEPCONTROLFIN_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:17:00 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:01 [INFO] [compare] SHA nuevo: bd3525d344d68a3fcb93728fd186c30bee5940e9ca129f2dbcbb4d455270e35e
+2025-09-04 20:17:01 [INFO] [compare] SHA previo (archivo: ArchivosLinkedin_20250904_201634.xlsx): bd3525d344d68a3fcb93728fd186c30bee5940e9ca129f2dbcbb4d455270e35e
+2025-09-04 20:17:01 [INFO] Contenido idéntico a la versión previa; no se genera nuevo archivo.
+2025-09-04 20:17:01 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:17:01 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (10).csv
+2025-09-04 20:17:01 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (11).csv
+2025-09-04 20:17:01 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (12).csv
+2025-09-04 20:17:01 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 20:17:01 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (3).csv
+2025-09-04 20:17:01 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (4).csv
+2025-09-04 20:17:01 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (5).csv
+2025-09-04 20:17:01 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (6).csv
+2025-09-04 20:17:01 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (7).csv
+2025-09-04 20:17:01 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (8).csv
+2025-09-04 20:17:01 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (9).csv
+2025-09-04 20:17:01 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:17:01 [INFO] Eliminado archivo de entrada procesado: Formulario - May 20, 2025_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:17:01 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:17:01 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 20:17:01 [INFO] Eliminado archivo de entrada procesado: PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (7).csv
+2025-09-04 20:17:01 [INFO] Eliminado archivo de entrada procesado: PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (8).csv
+2025-09-04 20:17:01 [INFO] Eliminado archivo de entrada procesado: PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (9).csv
+2025-09-04 20:17:01 [INFO] Eliminado archivo de entrada procesado: PEPCONTROLFIN_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:17:32 [INFO] Directorio LinkedIn detectado en: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin
+2025-09-04 20:17:32 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin
+2025-09-04 20:17:32 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin
+2025-09-04 20:17:32 [INFO] Carpeta salida (out): C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin
+2025-09-04 20:17:32 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK
+2025-09-04 20:17:32 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 20:17:32 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:32 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (10).csv ...
+2025-09-04 20:17:32 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:32 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (11).csv ...
+2025-09-04 20:17:32 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:32 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (12).csv ...
+2025-09-04 20:17:32 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:32 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 20:17:32 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:32 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 20:17:32 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:32 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 20:17:32 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:32 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (5).csv ...
+2025-09-04 20:17:32 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:32 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (6).csv ...
+2025-09-04 20:17:32 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:32 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (7).csv ...
+2025-09-04 20:17:32 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:32 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (8).csv ...
+2025-09-04 20:17:32 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:32 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (9).csv ...
+2025-09-04 20:17:32 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:32 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:17:32 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:32 [INFO] Procesando Formulario - May 20, 2025_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:17:32 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:32 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 20:17:32 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:32 [INFO] Procesando PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (7).csv ...
+2025-09-04 20:17:32 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:32 [INFO] Procesando PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (8).csv ...
+2025-09-04 20:17:32 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:32 [INFO] Procesando PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (9).csv ...
+2025-09-04 20:17:32 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:32 [INFO] Procesando PEPCONTROLFIN_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:17:32 [INFO]   encoding detectado: utf-8
+2025-09-04 20:17:33 [INFO] [compare] SHA nuevo: 0fc0ba0d193057131a8ab202db22392a11d37696c4db380a28e2ad74cb8cfcf4
+2025-09-04 20:17:33 [INFO] [compare] SHA previo (archivo: ArchivosLinkedin_20250904_201634.xlsx): bd3525d344d68a3fcb93728fd186c30bee5940e9ca129f2dbcbb4d455270e35e
+2025-09-04 20:17:33 [INFO] Contenido diferente: se procederá a reemplazar la versión viva por la nueva.
+2025-09-04 20:17:33 [INFO] [rotate] Archivo ArchivosLinkedin_20250904_201634.xlsx idéntico ya existe en backup; eliminado en out_dir
+2025-09-04 20:17:34 [INFO] Completado: 2844 filas escritas en C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin\ArchivosLinkedin_20250904_201733.xlsx
+2025-09-04 20:17:34 [INFO] [backup] Copiado ArchivosLinkedin_20250904_201733.xlsx -> C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK\ArchivosLinkedin_20250904_201733.xlsx
+2025-09-04 20:17:34 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:17:34 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (10).csv
+2025-09-04 20:17:34 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (11).csv
+2025-09-04 20:17:34 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (12).csv
+2025-09-04 20:17:34 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 20:17:34 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (3).csv
+2025-09-04 20:17:34 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (4).csv
+2025-09-04 20:17:34 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (5).csv
+2025-09-04 20:17:34 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (6).csv
+2025-09-04 20:17:34 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (7).csv
+2025-09-04 20:17:34 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (8).csv
+2025-09-04 20:17:34 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (9).csv
+2025-09-04 20:17:34 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:17:34 [INFO] Eliminado archivo de entrada procesado: Formulario - May 20, 2025_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:17:34 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 20:17:34 [INFO] Eliminado archivo de entrada procesado: PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (7).csv
+2025-09-04 20:17:34 [INFO] Eliminado archivo de entrada procesado: PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (8).csv
+2025-09-04 20:17:34 [INFO] Eliminado archivo de entrada procesado: PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (9).csv
+2025-09-04 20:17:34 [INFO] Eliminado archivo de entrada procesado: PEPCONTROLFIN_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:18:23 [INFO] Directorio LinkedIn detectado en: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin
+2025-09-04 20:18:23 [INFO] CWD: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\DockerScripts\UnificacionCSVLinkedin
+2025-09-04 20:18:23 [INFO] Carpeta entrada: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\SubirFormLeadsLinkedin
+2025-09-04 20:18:23 [INFO] Carpeta salida (out): C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin
+2025-09-04 20:18:23 [INFO] Carpeta backup: C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK
+2025-09-04 20:18:23 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 20:18:23 [INFO]   encoding detectado: utf-8
+2025-09-04 20:18:23 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (10).csv ...
+2025-09-04 20:18:23 [INFO]   encoding detectado: utf-8
+2025-09-04 20:18:23 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (11).csv ...
+2025-09-04 20:18:23 [INFO]   encoding detectado: utf-8
+2025-09-04 20:18:23 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (12).csv ...
+2025-09-04 20:18:23 [INFO]   encoding detectado: utf-8
+2025-09-04 20:18:23 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 20:18:23 [INFO]   encoding detectado: utf-8
+2025-09-04 20:18:23 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (3).csv ...
+2025-09-04 20:18:23 [INFO]   encoding detectado: utf-8
+2025-09-04 20:18:23 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (4).csv ...
+2025-09-04 20:18:23 [INFO]   encoding detectado: utf-8
+2025-09-04 20:18:23 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (6).csv ...
+2025-09-04 20:18:23 [INFO]   encoding detectado: utf-8
+2025-09-04 20:18:23 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (7).csv ...
+2025-09-04 20:18:23 [INFO]   encoding detectado: utf-8
+2025-09-04 20:18:23 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22 (9).csv ...
+2025-09-04 20:18:23 [INFO]   encoding detectado: utf-8
+2025-09-04 20:18:23 [INFO] Procesando CEPRRHH40_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:18:23 [INFO]   encoding detectado: utf-8
+2025-09-04 20:18:23 [INFO] Procesando Formulario - May 20, 2025_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:18:23 [INFO]   encoding detectado: utf-8
+2025-09-04 20:18:23 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (1).csv ...
+2025-09-04 20:18:23 [INFO]   encoding detectado: utf-8
+2025-09-04 20:18:23 [INFO] Procesando PAEGERFIN_leads_2025-08-16_2025-08-22 (2).csv ...
+2025-09-04 20:18:23 [INFO]   encoding detectado: utf-8
+2025-09-04 20:18:23 [INFO] Procesando PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (7).csv ...
+2025-09-04 20:18:23 [INFO]   encoding detectado: utf-8
+2025-09-04 20:18:23 [INFO] Procesando PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (8).csv ...
+2025-09-04 20:18:23 [INFO]   encoding detectado: utf-8
+2025-09-04 20:18:23 [INFO] Procesando PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (9).csv ...
+2025-09-04 20:18:23 [INFO]   encoding detectado: utf-8
+2025-09-04 20:18:23 [INFO] Procesando PEPCONTROLFIN_leads_2025-08-16_2025-08-22.csv ...
+2025-09-04 20:18:23 [INFO]   encoding detectado: utf-8
+2025-09-04 20:18:24 [INFO] [compare] SHA nuevo: 05091a1ef9b9222e05bad58fe591d13871803af894544fe8f1f5600a46e1efa5
+2025-09-04 20:18:24 [INFO] [compare] SHA previo (archivo: ArchivosLinkedin_20250904_201733.xlsx): 0fc0ba0d193057131a8ab202db22392a11d37696c4db380a28e2ad74cb8cfcf4
+2025-09-04 20:18:24 [INFO] Contenido diferente: se procederá a reemplazar la versión viva por la nueva.
+2025-09-04 20:18:24 [INFO] [rotate] Archivo ArchivosLinkedin_20250904_201733.xlsx idéntico ya existe en backup; eliminado en out_dir
+2025-09-04 20:18:25 [INFO] Completado: 2857 filas escritas en C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedin\ArchivosLinkedin_20250904_201824.xlsx
+2025-09-04 20:18:25 [INFO] [backup] Copiado ArchivosLinkedin_20250904_201824.xlsx -> C:\Users\Usuario\Desktop\2024-Tr\UnifacionCSVLinkedin\Linkedin\FormLeadsLinkedinBK\ArchivosLinkedin_20250904_201824.xlsx
+2025-09-04 20:18:25 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:18:25 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (10).csv
+2025-09-04 20:18:25 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (11).csv
+2025-09-04 20:18:25 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (12).csv
+2025-09-04 20:18:25 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 20:18:25 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (3).csv
+2025-09-04 20:18:25 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (4).csv
+2025-09-04 20:18:25 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (6).csv
+2025-09-04 20:18:25 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (7).csv
+2025-09-04 20:18:25 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22 (9).csv
+2025-09-04 20:18:25 [INFO] Eliminado archivo de entrada procesado: CEPRRHH40_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:18:25 [INFO] Eliminado archivo de entrada procesado: Formulario - May 20, 2025_leads_2025-08-16_2025-08-22.csv
+2025-09-04 20:18:25 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (1).csv
+2025-09-04 20:18:25 [INFO] Eliminado archivo de entrada procesado: PAEGERFIN_leads_2025-08-16_2025-08-22 (2).csv
+2025-09-04 20:18:25 [INFO] Eliminado archivo de entrada procesado: PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (7).csv
+2025-09-04 20:18:25 [INFO] Eliminado archivo de entrada procesado: PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (8).csv
+2025-09-04 20:18:25 [INFO] Eliminado archivo de entrada procesado: PEPCONTROLFIN_leads_2025-08-16_2025-08-22 (9).csv
+2025-09-04 20:18:25 [INFO] Eliminado archivo de entrada procesado: PEPCONTROLFIN_leads_2025-08-16_2025-08-22.csv
